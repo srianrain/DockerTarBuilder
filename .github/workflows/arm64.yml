@@ -1,4 +1,4 @@
-name: ARM64 Pull and Save Docker Image
+name: bestoray/pgyvpn
 
 on:
   workflow_dispatch:
