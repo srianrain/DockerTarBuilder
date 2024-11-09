@@ -1,4 +1,4 @@
-name: bestoray/pgyvpn
+name: ARM32 Pull and Save Docker Image
 
 on:
   workflow_dispatch:
